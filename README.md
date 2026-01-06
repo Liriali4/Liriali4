@@ -25,7 +25,7 @@ I enjoy building scalable, organized applications and turning ideas into practic
 
 ### 🛠️ Languages, Tools & Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,react,ts,nodejs,firebase,mysql,git,figma" />
+  <img src="https://skillicons.dev/icons?i=java,c,react,ts,nodejs,firebase,mysql,py,git,figma,photoshop" />
 </p>
 
 - **Frontend:** React, TypeScript, UI/UX principles, Figma  
