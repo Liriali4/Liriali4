@@ -38,16 +38,16 @@ I enjoy building scalable, organized applications and turning ideas into practic
 
 ---
 
-### 📌 Featured Projects
+### 📌 Types of Projects I Develop
 
-- 🛍️ **Marketplace Web Application**  
-  React + Firebase application with authentication, store & product management, checkout, invoice generation, and dashboards.
+- 🛍️ **Web Applications & Marketplaces**  
+  Developed using **React, TypeScript, Firebase, and REST APIs**, focused on authentication, product management, dashboards, and scalable frontend architecture.
 
-- 🌳 **Encoded Communication System (C)**  
-  Implementation using Trie and Hash Tables with authentication, word encoding/decoding, and search operations.
+- 🌳 **Data Structures & Algorithmic Systems (C)**  
+  Implementations of **Trie, Hash Tables, AVL Trees, and Search Algorithms**, with emphasis on performance, memory management, and modular design.
 
-- 📊 **Project Management System (Java)**  
-  Console-based system with modular structure for managing projects, tasks, and reports.
+- 📊 **Management & Academic Systems (Java)**  
+  Console and backend-oriented systems applying **OOP, modularization, separation of concerns, and clean architecture**.
 
 ---
 
