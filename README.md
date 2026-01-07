@@ -16,7 +16,7 @@ I enjoy building scalable, organized applications and turning ideas into practic
   <a href="https://github.com/Liriali4" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/líria-bá" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
